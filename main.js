@@ -18,7 +18,6 @@
    let frases_index = Math.floor(Math.random() * frases.length);
    const div_frases = document.getElementById('frases_container').innerHTML = frases[frases_index];
 
-   
 }
 
 
